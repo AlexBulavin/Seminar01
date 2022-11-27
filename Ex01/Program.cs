@@ -11,3 +11,10 @@ Console.WriteLine(result);
 
 Console.WriteLine("End!");
 
+int a = 5;
+int b = 8;
+
+Console.WriteLine((a > b) ? a : b);
+//((index < 5) ? ref smallArray[index] : ref largeArray[index - 5]) = 100;
+//Делать ДТП - достижения, трудности, предложения.
+
